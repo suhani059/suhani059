@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**suhani059/suhani059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Suhani Vij 👋
 
-Here are some ideas to get you started:
+### 🤖 Aspiring AI Engineer | B.Tech CSE (Data Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building AI-powered applications and exploring Machine Learning, Deep Learning & AI Engineering.
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm **Suhani**, a B.Tech Computer Science student specializing in Data Science.
+
+I'm currently focusing on **Artificial Intelligence and AI Engineering**, while building practical projects to strengthen my skills.
+
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Learning Machine Learning and Deep Learning
+- 🐍 Working with Python
+- 💻 Practicing C++ & DSA
+- 🚀 Building real-world AI projects
+- 📊 Background in Data Analytics & Data Science
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+`Python` `C++` `SQL`
+
+### AI & Data
+`Machine Learning` `Pandas` `NumPy` `Matplotlib`
+
+### Tools
+`Git` `GitHub` `VS Code` `Power BI`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShopSentinel
+
+**AI-powered shopping assistant designed to help users make smarter purchasing decisions.**
+
+🔗 [View Project](https://github.com/suhani059/ShopSentinel.git)
+
+---
+
+### 📦 Logistics Analytics
+
+**End-to-end logistics analytics project using Python, SQL and Power BI to analyze delivery performance and business insights.**
+
+🔗 [View Project](https://github.com/suhani059/Logistics-Delivery-Analytics.git)
+
+---
+
+## 🎯 Current Focus
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+AI Engineering
+        ↓
+Real-world AI Applications
+
+
+[LinkedIn](https://www.linkedin.com/in/suhani-vij-5a563b313?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
