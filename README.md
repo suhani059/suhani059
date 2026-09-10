@@ -70,4 +70,4 @@ AI Engineering
 Real-world AI Applications
 
 
-[LinkedIn](https://www.linkedin.com/in/suhani-vij-5a563b313?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[LinkedIn](www.linkedin.com/in/suhani-vij-5a563b313)
